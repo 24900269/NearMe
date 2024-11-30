@@ -190,7 +190,8 @@ home.html
 ```
 
 ## OUTPUT
-![alt text](chandru/mapapp/static/map.png)
+![Screenshot (8)](https://github.com/user-attachments/assets/66121c93-f48b-4e5b-a092-4200ac4e831e)
+
 ![alt text](<Screenshot (9).png>)
 ![alt text](<Screenshot (10).png>)
 ![alt text](<Screenshot (11).png>)
